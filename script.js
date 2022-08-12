@@ -95,4 +95,3 @@ if (mediaNota >= 8 && presenca >= 6) {
 } else {
     alert(`A nota do aluno ${nome} ${sobrenome} é de ${mediaNota} e sua presença de ${presenca}: Aluno reprovado!`)
 }
-console.log(listaDeMaterias.length)
